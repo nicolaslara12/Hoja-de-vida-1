@@ -73,7 +73,7 @@ html {
 .inicio .contenido-seccion header nav{
     position: fixed;
     margin-left: 60px;
-    background-color: #0d38c4;
+    background-color: #0f0f0f;
     padding: 15px;
     border-radius: 10px;
     text-align: left;
@@ -95,7 +95,7 @@ html {
     text-shadow: 0 0 35px #fff;
 }
 .inicio .contenido-seccion header .logo .color{
-    color: #070499;
+    color: #020202;
     font-family: "Yellowtail";
 }
 .inicio .contenido-seccion header .nav-bar{
@@ -179,7 +179,7 @@ html {
     font-size: 30px;
 }
 .sobremi .contenido-seccion .especial{
-    color: #dce7de;
+    color: #121312;
     font-weight: bold;
     margin-top: 15px;
 }
@@ -197,11 +197,11 @@ html {
     width: 30%;
 }
 .sobremi .contenido-seccion .fila .col i{
-    color: #0c0294;
+    color: #050505;
     display: inline-block;
     width: 40px;
     height: 40px;
-    border: 2px solid #180294;
+    border: 2px solid #000000;
     line-height: 40px;
     border-radius: 50%;
 }
@@ -214,12 +214,12 @@ html {
 .habilidades{
     padding: 80px 0 100px 0;
     text-align: center;
-    background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),
+    background: linear-gradient(rgba(15, 184, 23, 0.219), rgba(0,0,0,.3)),
     url("img/network-6511448_1280.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
-    color: #edeef3;
+    color: #070707;
 }
 .habilidades .contenido-seccion{
     max-width: 1000px;
@@ -245,7 +245,7 @@ html {
 }
 .habilidades .contenido-seccion .barra{
     display: flex;
-    border: 1px solid #050294;
+    border: 1px solid #02941a;
     padding: 2px;
     border-radius: 3px;
     margin-right: 10px;
@@ -258,7 +258,7 @@ html {
 }
 /* SECCION RESUMEN */
 .resumen{
-    background-color: #e6e6e6;
+    background-color: #15ad1c5b;
     padding: 140px 0 100px 0;
     text-align: center;
 }
@@ -282,9 +282,9 @@ html {
 }
 .resumen .contenido-seccion .info .col .titulo{
     display: inline-block;
-    color: #220294;
+    color: #020202;
     font-weight: bold;
-    border: 2px solid #110294;
+    border: 2px solid #03380b;
     padding: 10px;
 
 }
@@ -294,7 +294,7 @@ html {
 }
 .resumen .contenido-seccion .info .col table .datos{
     width: 40%;
-    border-bottom: 1px solid #bab9b9;
+    border-bottom: 1px solid #111111;
 }
 .resumen .contenido-seccion .info .col table h4{
     margin-top: 10px;
@@ -313,14 +313,14 @@ html {
     font-weight: bold;
 }
 .resumen .contenido-seccion .info .col table .descripcion{
-    border-left: 1px solid #bab9b9;
+    border-left: 1px solid #1d1d1d;
     padding-left: 20px;
 }
 /* SECCION CONTACTO */
 .contacto{
-    background-color: #202020;
+    background-color: #2020204b;
     padding: 140px 0 100px 0;
-    color: #e6e6e6;
+    color: #020202;
     text-align: center;
 }
 .contacto .contenido-seccion{
@@ -340,7 +340,7 @@ html {
     margin-top: 50px;
 }
 .contacto .contenido-seccion .fila .col h2{
-    color: #0c0294;
+    color: #121213;
 }
 /* SECCION RESPONSIVE */
 @media screen and (max-width:800px){
